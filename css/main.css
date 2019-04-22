@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700,1000,1200);
+@import url(css/font/wask_new_bold-webfont.woff)
+body {
+  margin: auto;
+  font-family: 'Inconsolata', monospace;
+}
+
+/* Style the header */
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  padding: 80px 120px;
+  font-size: 1.9em;
+
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.thumbnail{
+  font-weight: 400;
+  font-size: 1.3em;
+  font-family: 'Inconsolata', monospace;}
+
+.caption h4{
+  font-size: 2.3em;
+  position: absolute;
+  bottom: 80%;
+  left: 30px;
+}
+
+.l{
+  font-family: 'wask_newregular';
+  font-weight: 400;
+}
+
+
+.centered {
+  position: absolute;
+  top: 75%;
+  left: 40%;
+  transform: translate(-14%, -50%);
+  font-size: 3.5em;
+  font-weight: 700;
+  line-height: 100%;
+
+  font-family: 'Inconsolata', monospace;
+}
+
+.lefter{
+  position: absolute;
+  top: 74%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+  width: 77%;
+  font-size: 3em;
+  font-family: 'Inconsolata', monospace;
+
+
+}
+.righter{
+  position: absolute;
+  top: 55%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  font-family: 'Inconsolata', monospace;
+}
+
+
+
+.text_over_image1 {
+  position: relative;
+  margin: 50px;
+  float: left;
+}
+
+.text_over_image1 h2 {
+  background-color: ;
+  top: 5%;
+  color: black;
+  font-size: 3em;
+  left: 50px;
+  padding: 0.25em 0.75em;
+  position: absolute;
+  font-weight: bold;
+  font-family: 'Inconsolata', monospace;
+}
+
+.text_over_image1 .p {
+  background-color: ;
+  top: 30%;
+  color: black;
+  font-size: 3.0em;
+  font-weight: 700;
+  left: 50px;
+  padding: 0.25em 0.75em;
+  position: absolute;
+  font-family: 'Inconsolata', monospace;
+  line-height: 50px;
+  background-color: #ffffff;
+}
+
+.text_over_image2 {
+  background-size: cover;
+  content: "";
+  position: absolute;
+  margin:;
+  float: left;
+  left: 55%;
+  top: 360%;
+  font-size: 1.3em;
+
+}
+
+ .q{
+  top: 5%;
+  color: black;
+  font-size: 2.25em;
+  left: 5%;
+  padding: 0.25em 0.75em;
+  position: absolute;
+}
+
+.r{
+ top: 30%;
+ color: black;
+ font-size: 1em;
+ left: 60%;
+ padding: 0.25em 0.75em;
+ position: absolute;
+}
+
+.s{
+  top: 50%;
+  color: black;
+  font-size: 1em;
+  left: 60%;
+  padding: 0.25em 0.75em;
+  position: absolute;
+}
+
+.x{
+  margin-bottom: 10%;
+  margin-top: 80%;
+  width: 115%;
+  height: 100%;
+  font-size: 1.5rem;
+}
+.t {
+  top: 80%;
+  color: black;
+  font-size: 1em;
+  left: 60%;
+  padding: 0.25em 0.75em;
+  position: absolute;
+
+}
